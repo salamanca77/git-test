@@ -9,9 +9,8 @@ f}
 
 function divisio(x,y,r){
     return r = x/y
-}
+}   
 
-function multiplicacion(t, u){
-    return r =t*u
+const variable = null
 
-}
+const variableUno = null
