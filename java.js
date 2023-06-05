@@ -4,4 +4,9 @@ function suma(a, b){
 
 function resta(c,d){
     return c - d
+f}
+
+
+function divisio(x,y){
+    return x/y
 }
