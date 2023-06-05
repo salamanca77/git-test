@@ -7,6 +7,6 @@ function resta(c,d){
 f}
 
 
-function divisio(x,y){
-    return x/y
+function divisio(x,y,r){
+    return r = x/y
 }
